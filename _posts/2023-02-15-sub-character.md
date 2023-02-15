@@ -4,7 +4,7 @@ title: "부캐가 난립하는 이 시대에 신경 써야 할 것"
 subtitle: "처음 뵙겠습니다. 커맨드 스페이스입니다."
 date: 2023-02-15 09:45:13 +0900
 background: '/img/posts/sub_cha_03.jpg'
-author : "JhonKoo"
+author : "Yohan Koo"
 ---
 
 사실 다양한 분야에 재능을 가지고 있는 사람들은 많다.
