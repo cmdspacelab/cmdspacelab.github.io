@@ -33,10 +33,12 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
 <!-- HIT start -->
   <div style="text-align: center;">
-  <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}" target="_blank">
-    <img src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}.svg" />
-  </a>
-  </div> 
+    <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
+      target="_blank">
+      <img
+        src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg" />
+    </a>
+  </div>
   <!-- HIT end -->
         {{ content }}
 
