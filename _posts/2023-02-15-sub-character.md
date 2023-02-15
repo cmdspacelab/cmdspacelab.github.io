@@ -21,7 +21,7 @@ background: '/img/posts/sub_cha_03.jpg'
 
 근데 재미있는 것은 잡아야 하는 보스몹도 점점 더 멋진 형님들로 새로운 스테이지와 함께 등장한다는 것이다. 작년 한 해 집중했던 세컨드 브레인은 디아블로 2의 카우방과도 같다. 타이탄 자벨린 들고 카우방에 들어가면 폭풍성장과 함께 나오는 것 다들 기억하고 있는가?
 
-![logo](/img/posts/sub_cha_02.png){: .align-center, width="100%", height="100%"}
+![logo](/img/posts/sub_cha_02.png){: .align-center, width="70%", height="70%"}
 
 *source : eBay*
 
