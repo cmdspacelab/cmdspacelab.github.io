@@ -5,6 +5,13 @@ author:             cmds
 baseurl:            "/"
 url:                "https://blog.cmdspace.org"
 
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tag/
+  
 # Social Profiles
 twitter_username:   SBootstrap
 github_username:    StartBootstrap
