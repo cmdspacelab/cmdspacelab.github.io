@@ -3,6 +3,21 @@
 <script src="{{"/assets/vendor/startbootstrap-clean-blog/js/scripts.js" | relative_url }}"></script>
 
 <script src="{{"/assets/scripts.js" | relative_url }}"></script>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script>
+    Kakao.init("c67b07e157530d95bba030f53ffd6e14");   // 아까 복사해둔 JavaScript 키
+    function sendLink() {
+      Kakao.Link.sendCustom({
+        templateId: 90051,   // 복사해둔 템플릿 ID
+        templateArgs: {
+          title: "{{ page.title }}",
+          description: "{{ page.excerpt }}",
+          url : "{{ page.url }}",
+        },
+      });
+    }
+</script>
+
 
 {% if page.url contains 'contact' %}
   <!-- Form Validation -->
