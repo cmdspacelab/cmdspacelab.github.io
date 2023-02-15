@@ -5,8 +5,8 @@ subtitle: "처음 뵙겠습니다. 커맨드 스페이스입니다."
 date: 2023-02-15 09:45:13 +0900
 background: '/img/posts/sub_cha_03.jpg'
 author : "Yohan Koo"
+category: [blog, tech]
 ---
-
 사실 다양한 분야에 재능을 가지고 있는 사람들은 많다.
 나 또한 그런 마음이었다. 물리를 시작할 때에도, 기타를 치고 노래를 할 때에도 그런 마음이었다.
 
