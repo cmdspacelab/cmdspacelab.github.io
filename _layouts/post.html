@@ -35,11 +35,6 @@ layout: default
 <p align="right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/ width="100" alt="" ></a> 
 </p>
-<div>
-  {% for category in categories % }
-    <a href="{{ site.url }}/category/{{ category }}.html" >{{ category }}</a>
-  {% endfor %}
-</div>
   <!-- HIT end -->
         {{ content }}
 
