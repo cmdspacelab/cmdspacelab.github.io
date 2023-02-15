@@ -3,20 +3,13 @@
 <script src="{{"/assets/vendor/startbootstrap-clean-blog/js/scripts.js" | relative_url }}"></script>
 
 <script src="{{"/assets/scripts.js" | relative_url }}"></script>
-<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
-<script>
-    Kakao.init("c67b07e157530d95bba030f53ffd6e14");   // 아까 복사해둔 JavaScript 키
-    function sendLink() {
-      Kakao.Link.sendCustom({
-        templateId: 90051,   // 복사해둔 템플릿 ID
-        templateArgs: {
-          title: "{{ page.title }}",
-          description: "{{ page.excerpt }}",
-          url : "{{ page.url }}",
-        },
-      });
-    }
+{% if page.use_kakao-sdk %}
+<script src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script type="text/javascript">
+  Kakao.init('카카오 개발자 사이트에 등록한 Javascript 앱 키');
 </script>
+<script src="/assets/js/kakao-custom.min.js"></script>
+{% endif %}
 
 
 {% if page.url contains 'contact' %}
