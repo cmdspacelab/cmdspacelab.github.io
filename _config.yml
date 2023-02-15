@@ -23,12 +23,12 @@ linkedin_username:
 google_analytics:   #UA-XXXXXXXXX-X # out your google-analytics code
 
 #kakao
-defaults:
-  - scope:
-    path: ""
-    type: posts
-  value:
-    use_kakao-sdk: true
+#defaults:
+#  - scope:
+#    path: ""
+#    type: posts
+#  value:
+#    use_kakao-sdk: true
 # Build settings
 markdown:           kramdown
 paginate:           5
