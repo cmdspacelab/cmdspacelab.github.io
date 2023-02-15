@@ -13,7 +13,7 @@ background: '/img/posts/sub_cha_03.jpg'
 
 여기서 말하고 싶은 것은 사이드 프로젝트를 통해 연봉을 얼마 올렸는지 고효율 고수익을 위해 무얼 해야 하는지는 아니다. 부캐에 임하는 본캐의 마음가짐이다. 나의 태도가 프로 의식을 반영하여 부캐의 스토리를 풀어낼 수 있다면, 많은 시간을 들여 적은 돈을 받는다 하더라도 만족스럽다.
 
-![logo](/img/posts/sub_cha_01.jpg)*Source: Unsplash—Kenny Eliason*
+![logo](/img/posts/sub_cha_01.jpg) {: .align-center, width="30%", height="30%"} *Source: Unsplash—Kenny Eliason*
 
 서른 즈음에 전공 바꿔 박사과정을 시작하면서 방향 바꾸는 큰 결정을 할 수 있는 마지막 기회라 생각했는데, 시간이 지나 보니 그때의 내가 느꼈던 마지막 기회라는 것은 당시 나 자신의 수준에서 생각한 리미트였던 것 같다. 배우면 배울수록 게임에서의 몫숨과 같은 것들이 Exponential 하게 증가하는 것 같다. 이때의 나는 한두 번 정도 더 기회가 있으니 심사숙고해서 이번 보스몹을 도전해보자 했었는데, 성장하고 나서 보면 열 번 스무 번은 시도해도 괜찮은 내가 되어있는 것이랄까.
 
@@ -33,12 +33,12 @@ background: '/img/posts/sub_cha_03.jpg'
 
 처음 바라보고 목표로 삼았던 거인은 하나였는데, 빠져들수록 새로운 장르의 타이탄이 내 안에 생겨났다. 내 노트 시스템의 목차 구조는 내가 바라보는 타이탄 하나하나를 겨냥하고 있는 것 같다. 학술적 가치를 전달하는 연구자이고 싶으면서, 가장 편하게 이야기할 수 있는 형이고 싶고, 새로운 것들을 알려주는 사람이면서, 때로는 재즈를 들려줄 수 있는 사람이고 싶은 것. 재미있는 박사학위 논문을 쓰는 것 또한 놓칠 수는 없지.
 
-![logo](/img/posts/sub_cha_03.jpg)
+![logo](/img/posts/sub_cha_03.jpg){: .align-center, width="30%", height="30%"}
 *source : Unsplash-Thomas Griggs*
 
 나는 그래서 지속적인 배움의 과정에 있다. 내 거인들을 소개한다.
 
-{ % youtube "https://www.youtube.com/watch?v=qJW0wSiag9s" % 
+{ % youtube "https://www.youtube.com/watch?v=qJW0wSiag9s" % }
 
 
 ## 끝
