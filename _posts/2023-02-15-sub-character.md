@@ -39,8 +39,7 @@ background: '/img/posts/sub_cha_03.jpg'
 
 나는 그래서 지속적인 배움의 과정에 있다. 내 거인들을 소개한다.
 
-{ % youtube "https://www.youtube.com/watch?v=qJW0wSiag9s" % }
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qJW0wSiag9s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## 끝
 
