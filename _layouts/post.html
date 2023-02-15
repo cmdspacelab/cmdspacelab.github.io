@@ -1,20 +1,6 @@
 ---
 layout: default
 ---
-<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
-<script>
-    Kakao.init("c67b07e157530d95bba030f53ffd6e14");   // 아까 복사해둔 JavaScript 키
-    function sendLink() {
-      Kakao.Link.sendCustom({
-        templateId: 90051,   // 복사해둔 템플릿 ID
-        templateArgs: {
-          title: "{{ page.title }}",
-          description: "{{ page.excerpt }}",
-          url : "{{ page.url }}",
-        },
-      });
-    }
-</script>
 
 
 <!-- Page Header -->
@@ -45,6 +31,21 @@ layout: default
   {% endfor %}
 </div>
 <!-- kakao-->
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script>
+    Kakao.init("c67b07e157530d95bba030f53ffd6e14");   // 아까 복사해둔 JavaScript 키
+    function sendLink() {
+      Kakao.Link.sendCustom({
+        templateId: 90051,   // 복사해둔 템플릿 ID
+        templateArgs: {
+          title: "{{ page.title }}",
+          description: "{{ page.excerpt }}",
+          url : "{{ page.url }}",
+        },
+      });
+    }
+</script>
+
 <a id="kakao-link-btn" href="javascript:sendLink()">
     <img src="//developers.kakao.com/assets/img/about/logos/kakaolink/kakaolink_btn_medium.png" />
 </a><!-- -->
