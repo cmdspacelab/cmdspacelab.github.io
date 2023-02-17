@@ -47,7 +47,7 @@ ChatGPT에 따르면 초대형 AI에 대기업이 집중 투자하는 한국은 
 
 
 ---
-사진: [Unsplash](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/58Z17lnVS4U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)의[Milad Fakurian](https://unsplash.com/@fakurian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-사진: [Unsplash](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/r8q16QN40Xg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)의[Dewang Gupta](https://unsplash.com/@dewang?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-사진: [Unsplash](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/mr9FouttLGY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)의[Alexandre Van Thuan](https://unsplash.com/@alexandrevanthuan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-[[강주안의 직격인터뷰] “일의 중간 단계선 AI 막강하지만 시작과 끝은 사람 몫” | 중앙일보 (joongang.co.kr)](https://www.joongang.co.kr/article/25141235#home) 을 읽고 정리한 글
+- 사진: [Unsplash](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/58Z17lnVS4U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)의[Milad Fakurian](https://unsplash.com/@fakurian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- 사진: [Unsplash](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/r8q16QN40Xg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)의[Dewang Gupta](https://unsplash.com/@dewang?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- 사진: [Unsplash](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/mr9FouttLGY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)의[Alexandre Van Thuan](https://unsplash.com/@alexandrevanthuan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- [[강주안의 직격인터뷰] “일의 중간 단계선 AI 막강하지만 시작과 끝은 사람 몫” | 중앙일보 (joongang.co.kr)](https://www.joongang.co.kr/article/25141235#home) 을 읽고 정리한 글
