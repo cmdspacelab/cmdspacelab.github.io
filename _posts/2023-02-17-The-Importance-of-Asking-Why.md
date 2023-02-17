@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "인공지능 시대에 왜? 라고 묻는 것의 중요성"
-subtitle: "AI교육은 암기 대신 왜? 를 묻는 방향으로 전환해야 한다. AI 연구가 발전했지만 인간의 의사 결정을 완전히 대체하려면 아직 갈 길이 멀다."
+subtitle: "AI 교육은 암기 대신 왜? 를 묻는 방향으로 전환해야 한다."
 date: 2023-02-17 09:13 +0900
 background: '/img/posts/2023-02-17/01.jpg'
 author : "Jaehyun Kim"
