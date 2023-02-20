@@ -1,10 +1,10 @@
-title:              command space labatory
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             cmds
+title:              COMMAND SPACE LABATORY
+email:              commandspacelab@gmail.com
+description:        Knowledge Connectivity
+author:             CMDS
 baseurl:            "/"
 url:                "https://blog.cmdspace.org"
-
+timezone: Asia/Seoul
 #category_archive:
 #  type: liquid
 #  path: /categories/

@@ -34,12 +34,12 @@ header.masthead {
         text-align: center;
 
         h1 {
-            font-size: 50px;
+            font-size: 40px; //50px
             margin-top: 0;
         }
 
         .subheading {
-            font-size: 24px;
+            font-size: 20px; //24px
             font-weight: 300;
             line-height: 1.1;
             display: block;
@@ -57,6 +57,9 @@ header.masthead {
     .post-heading {
         h1 {
             font-size: 35px;
+        }
+        h2 {
+            font-size: 15px;
         }
 
         .meta,
