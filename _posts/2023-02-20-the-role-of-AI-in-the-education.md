@@ -24,7 +24,7 @@ permalink: /the-role
   <source srcset="/img/posts/2023-02-20/01.avif" type="image/avif" />
   <source srcset="/img/posts/2023-02-20/01.webp" type="image/webp" />
   <img src="/img/posts/2023-02-20/01.jpg" alt="link" />
-</picture>{: width="100%", height="100%"}
+</picture>
 
   AI는 교육 정책의 새로운 지평을 열었고, 디지털 기술은 유용한 학습 수단이 될 것으로 기대됩니다. 교육부는 최근 디지털 기반 교육 혁신 방안 수립을 위한 간담회를 열고 전문가들이 AI 디지털 교과서 개발, 교원양성 활성화, 인프라 구축 등을 논의했다. 이러한 이니셔티브는 학습 경험을 크게 향상하고 학생들이 미래를 준비할 수 있는 잠재력을 가지고 있다고 보고있다.
 
@@ -43,7 +43,7 @@ permalink: /the-role
   <source srcset="/img/posts/2023-02-20/02.avif" type="image/avif"/>
   <source srcset="/img/posts/2023-02-20/02.webp" type="image/webp" />
   <img src="/img/posts/2023-02-20/02.jpg" alt="lovetolearn" />
-</picture>{:width="100%", height="100%"}
+</picture>
 
   결론적으로 AI는 우리가 가르치는 방식에 상당한 영향을 미칠 수 있는 잠재력을 가지고 있다. 교육정책 변화의 바람을 일으키고 있습니다. 그러나 자기주도적 학습자 양성과 사회적 인간 사이의 균형을 유지하고 교육 격차를 방지하기 위해 교사의 역량 교육 및 훈련을 제공하는 것이 필수이다. 디지털 기술이 계속해서 발전함에 따라 우리는 학생들이 미래에 대비할 수 있도록 그에 따라 교육 정책을 민첩하게 조정할 수 있어야 한다.
 
