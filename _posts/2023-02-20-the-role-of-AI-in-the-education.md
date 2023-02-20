@@ -20,7 +20,7 @@ permalink: /the-role
 ## 교육 정책에서 AI의 잠재력
 
 
-<picture>
+<picture style="width: 100%">
   <source srcset="/img/posts/2023-02-20/01.avif" type="image/avif" />
   <source srcset="/img/posts/2023-02-20/01.webp" type="image/webp" />
   <img src="/img/posts/2023-02-20/01.jpg" alt="link" />
@@ -39,7 +39,7 @@ permalink: /the-role
 ## 결론
 
 
-<picture>
+<picture style="width: 100%">
   <source srcset="/img/posts/2023-02-20/02.avif" type="image/avif"/>
   <source srcset="/img/posts/2023-02-20/02.webp" type="image/webp" />
   <img src="/img/posts/2023-02-20/02.jpg" alt="lovetolearn" />
