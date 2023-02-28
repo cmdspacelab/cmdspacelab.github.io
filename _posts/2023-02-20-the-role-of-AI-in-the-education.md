@@ -5,7 +5,7 @@ subtitle: "교육 장면에서 AI의 잠재력"
 date: 2023-02-20 08:54 +0900
 background: '/img/posts/2023-02-20/bg.webp'
 author : "Jaehyun Kim"
-categories: ["blog", "education"]
+categories: ["education"]
 permalink: /the-role
 ---
 
