@@ -20,7 +20,7 @@ instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:  "UA-258662207-1" #UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:  #"UA-258662207-1" #UA-XXXXXXXXX-X # out your google-analytics code
 
 #kakao
 #defaults:
