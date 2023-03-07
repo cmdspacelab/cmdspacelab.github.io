@@ -6,7 +6,7 @@ date: 2023-03-07 09:10 +0900
 background: '/img/posts/2023-03-07/01.jpg'
 author : "Jaehyun Kim"
 categories: ["education"]
-permalink: /UniversityEducation
+permalink: /universityeducation
 ---
 
 ## 대학교육의 지속가능한 해결방안
