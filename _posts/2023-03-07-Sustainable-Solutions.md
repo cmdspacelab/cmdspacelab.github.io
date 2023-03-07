@@ -47,7 +47,7 @@ permalink: /universityeducation
 
 
 
-# Sustainable Solutions for University Education
+## Sustainable Solutions for University Education
 
 The role of universities has been essential in shaping individuals' career paths, fostering personal growth, and promoting societal development. However, with the advent of the Fourth Industrial Revolution, the education sector, including universities, has been facing unprecedented challenges. In Korea, in particular, the universities' competitiveness has been deteriorating, and there is an urgent need for sustainable solutions for university education. In this article, we will examine the current state of university education in Korea and propose some sustainable solutions to address the challenges.
 
